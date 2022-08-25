@@ -19,7 +19,7 @@ public class HomeWork_4 {
             System.out.println("Сегодня пятница, " + monthFri + "-е число. Необходимо подготовить отчет.");
             monthFri += 7;
         }
-        //=============ThirdTask=============
+        //=============ThirdTask============
         System.out.println("=============ThirdTask=============");
         for (int i = 0; i < 2300; i+= 79) {
             if (1822 < i && i < 2100) {
