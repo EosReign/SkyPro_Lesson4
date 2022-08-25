@@ -40,7 +40,7 @@ public class HomeWork_4 {
             System.out.println(i + ": " + ping + pong);
         }
         //=============FourthTask(TryHard)=============
-        System.out.println("=============FourthTask(TryHard)=============");
+        System.out.println("=============FourthTask(TryHard)============");
         System.out.println();
         int a = 0;
         int b = 1;
